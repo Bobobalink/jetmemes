@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
 
-from jetmemes import createCommitMessage
+from jetmemes import create_commit_message
 
-print(createCommitMessage())
+print(create_commit_message())
